@@ -1,6 +1,6 @@
 export default {
   state: {
-    mainURL: 'http://172.19.26.152:80/',
+    mainURL: 'http://192.168.1.238:80/',
     user_logged: {
       email: 'sudoLogin',
       password: 'sudoPassword',
