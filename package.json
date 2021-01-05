@@ -11,7 +11,7 @@
     "build": "node build/build.js"
   },
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "firebase": "^6.0.2",
     "jquery": "^3.4.1",
     "uimini": "^1.1.3",
